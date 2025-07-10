@@ -31,9 +31,9 @@ Future work could benefit from spectral energy distribution (SED) fitting to bet
 
 
 ### I Zw 18 Isochrone and Evolutionary Track Fitting:
-<img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/MIST-Isochrones-IZw18.png" width="500" />
+<img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/MIST-Isochrones-IZw18.png" width="700" />
 
-<img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/MIST-Evolutionary-Tracks-IZw18.png" width="500" />
+<img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/MIST-Evolutionary-Tracks-IZw18.png" width="700" />
 
 
 ### Stellar Spatial Distribution:
@@ -45,7 +45,7 @@ Future work could benefit from spectral energy distribution (SED) fitting to bet
 - Component C:
 <img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/CompC-Demarcation.png" width="500" />
 
-<img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/CompC-Age-Spatial-Distribution.png" width="500" />
+<img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/CompC-Age-Spatial-Distribution.png" width="700" />
 
 
 
@@ -54,11 +54,11 @@ Future work could benefit from spectral energy distribution (SED) fitting to bet
 <img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/Reddening-Laws-and-Filter-Throughputs.png" width="500" />
 
 - I Zw 18 Reddening Vectors:
-<img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/CCDs-IZw18-Reddening-Vectors.png" width="500" />
+<img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/CCDs-IZw18-Reddening-Vectors.png" width="700" />
 
 
 ### SFERA2.0 Synthetic CMDs:
-<img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/SFERA2.0-Synthetic-CMDs.png" width="500" />
+<img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/SFERA2.0-Synthetic-CMDs.png" width="800" />
 
 ### Star Formation Histories (SFHs):
 <img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/Star-Formation-Histories.png" width="500" />
