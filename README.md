@@ -45,7 +45,7 @@ Future work could benefit from spectral energy distribution (SED) fitting to bet
 - Component C:
 <img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/CompC-Demarcation.png" width="500" />
 
-<img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/CompC-Age-Spatial-Distribution.png" width="700" />
+<img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/CompC-Age-Spatial-Distribution.png" width="600" />
 
 
 
@@ -58,7 +58,7 @@ Future work could benefit from spectral energy distribution (SED) fitting to bet
 
 
 ### SFERA2.0 Synthetic CMDs:
-<img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/SFERA2.0-Synthetic-CMDs.png" width="800" />
+<img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/SFERA2.0-Synthetic-CMDs.png" width="1000" />
 
 ### Star Formation Histories (SFHs):
 <img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/Star-Formation-Histories.png" width="500" />
