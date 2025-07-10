@@ -22,9 +22,9 @@ Future work could benefit from spectral energy distribution (SED) fitting to bet
 
 ## Main Results
 ### Region Characterization:
-<img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/Isophotes.png" width="500" />
+<img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/Isophotes.png" width="300" />
 
-<img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/Region-Characterization.png" width="500" />
+<img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/Region-Characterization.png" width="300" />
 
 ### Color-Magnitude Diagrams (CMDs):
 - I Zw 18:
