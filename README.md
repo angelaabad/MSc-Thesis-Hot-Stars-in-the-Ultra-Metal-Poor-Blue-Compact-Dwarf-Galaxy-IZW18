@@ -40,7 +40,7 @@ Future work could benefit from spectral energy distribution (SED) fitting to bet
 - I Zw 18:
 <img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/IZw18-50th-Percentile.png" width="500" />
 
-<img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/IZw18-Age-Spatial-Distribution.png" width="500" />
+<img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/IZw18-Age-Spatial-Distribution.png" width="600" />
 
 - Component C:
 <img src="https://github.com/angelaabad/MSc-Thesis-Hot-Stars-in-the-Ultra-Metal-Poor-Blue-Compact-Dwarf-Galaxy-IZW18/blob/main/Images/CompC-Demarcation.png" width="500" />
